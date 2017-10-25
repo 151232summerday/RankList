@@ -1,0 +1,12 @@
+集成以下功能的服务器框架：
+
+maven
+spring MVC
+C3P0
+JSON
+静态资源
+异常处理
+Interceptor
+JUnit
+log4j
+swagger
